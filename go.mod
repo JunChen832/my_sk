@@ -1,4 +1,4 @@
-module my_sk
+module github.com/JunChen832/my_sk
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
